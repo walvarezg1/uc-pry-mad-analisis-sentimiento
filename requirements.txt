@@ -1,6 +1,25 @@
-pip install pandas
-
-pip install yt-dlp
-pip install SpeechRecognition
-pip install pydub
-pip install dask
+pandas
+openpyxl
+pyarrow
+yt-dlp
+SpeechRecognition
+pydub
+dask
+openai-whisper
+whisper
+pytube
+vosk
+time
+concurrent.futures
+os
+re
+wave
+json
+subprocess
+transformers
+librosa
+deepgram-sdk
+deepspeech
+sentencepiece
+torch
+tensorflow
